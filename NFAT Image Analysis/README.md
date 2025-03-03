@@ -3,7 +3,7 @@
 Fiji_CellDataScript.py is used to detect single cells in imaging data and measure the NFAT signal 
 in the cytosol and nucleus. 
 
-MergeScript.py is subsequently used to merge the produced data to one file.
+MergeScript.py is subsequently used to calculate NFAT fractions and merge data into one file.
 # Requirements:
 Fiji 2.14
 
